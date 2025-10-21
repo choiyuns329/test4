@@ -4,7 +4,7 @@
 <meta name="naver-site-verification" content="b3dc2da47ba04fab2d8e372d504fe0cdcb6097b3" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>✈️ 중국 여행</title>
+    <title>✈️ 일본 여행</title>
     <meta name="description" content="도쿄, 오사카, 후쿠오카 3박 4일 완벽 여행 가이드! 친구들과 함께 즐기는 최고의 일정을 소개합니다.">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;700&display=swap" rel="stylesheet">
     <style>
@@ -175,7 +175,7 @@
             </ul>
         </div>
         <div class="content">
-            <h1>일wndrnr획</h1>
+            <h1>여행 계획</h1>
             <!-- 도쿄 일정 -->
             <div id="tokyo" class="city-section active">
                 <div class="section">
